@@ -26,6 +26,7 @@
 
 ## 🌠 Large Language Models
 
+- :fire: [PaLM] **PaLM: Scaling Language Modeling with Pathways**, arXiv:2204.02311 [[paper](https://arxiv.org/abs/2204.02311)]
 - :fire: [Codex] **Evaluating large language models trained on code**, arXiv:2107.03374 [[paper](https://arxiv.org/abs/2107.03374)]
 - :fire: [GPT-3] **Language models are few-shot learners**, NeurIPS 2020 [[paper](https://arxiv.org/abs/2005.14165)]
 - [UnifiedQA] **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**, EMNLP 2020 [[paper](https://arxiv.org/abs/2005.00700)]
@@ -37,7 +38,13 @@
 
 ### Neural Networks for MWPs
 
+- 🎨 [ArMATH] **ArMATH: a Dataset for Solving Arabic Math Word Problems**, LREC 2022 [[paper](https://aclanthology.org/2022.lrec-1.37/)]
+
+- **Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**, EMNLP 2022 [[paper](https://aclanthology.org/2021.emnlp-main.272/)]
+
 - 🎨 [SVAMP] **Are NLP Models really able to Solve Simple Math Word Problems?**, NAACL-HIT 2021 [[paper](https://arxiv.org/abs/2103.07191)]
+
+- **Solving Math Word Problems with Teacher Supervision**, IJCAI 2021 [[paper](https://www.ijcai.org/proceedings/2021/485)]
 
 - [Weak Supervision] **Learning by Fixing: Solving Math Word Problems with Weak Supervision**, AAAI 2021 [[paper](https://arxiv.org/abs/2012.10582)]
 
@@ -52,32 +59,53 @@
   (Operation-based)
 
 - [expression tree] **Translating a math word problem to an expression tree**, EMNLP 2018 [[paper](https://aclanthology.org/D18-1132/)]
+
 - [logical reasoning] **Mapping to declarative knowledge for word problem solving**, TACL 2018 [[paper](https://arxiv.org/abs/1712.09391)]
+
 - [symbolic reasoning] **Semantic parsing of pre-university math problems**, ACL 2017 [[paper](https://aclanthology.org/P17-1195/)]
+
 - [Equation templates] **Learning fine-grained expressions to solve math word problems**, EMNLP 2017 [[paper](https://aclanthology.org/D17-1084/)]
+
 - [Math23K] **Deep neural solver for math word problems**, EMNLP 2017 [[paper](https://aclanthology.org/D17-1088/)]
+
 - [Dependency Graph] **Unit dependency graph and its application to arithmetic word problem solving**, AAAI 2017 [[paper](https://arxiv.org/abs/1612.00969)]
+
 - 🎨 [DRAW-1K] **Annotating Derivations: A New Evaluation Strategy and Dataset for Algebra Word Problems**, ACL 2017 [[paper](https://aclanthology.org/E17-1047/)]
+
 - **Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems**, ACL 2017 [[paper](https://aclanthology.org/P17-1015/)]
+
 - 🎨 [Dolphin18K] **How well do computers solve math word problems? large-scale dataset construction and evaluation**, ACL 2016 [[paper](https://aclanthology.org/P16-1084/)]
+
 - 🎨 [MAWPS] **MAWPS: A math word problem repository**, NAACL-HLT 2016 [[paper](https://aclanthology.org/N16-1136/)]
 
 ### Larguage Models for MWPs
 
 - **Solving quantitative reasoning problems with language models**, arXiv:2206.14858 [[paper](https://arxiv.org/abs/2206.14858)]
+- **Learning from Self-Sampled Correct and Partially-Correct Programs**, arXiv:2205.14318 [[paper]](https://arxiv.org/abs/2205.14318)
+- **Minerva: Solving Quantitative Reasoning Problems with Language Models**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.14858)]
+- **Insights into Pre-training via Simpler Synthetic Tasks**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.10139)]
 - **TAPEX: Table Pre-training via Learning a Neural SQL Executor**, ICLR 2022 [[paper](https://arxiv.org/abs/2107.07653)]
 - 🎨 [MultiHiertt] **MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data**, ACL 2022 [[paper](https://aclanthology.org/2022.acl-long.454/)]
+- **MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving**, Findings of NAACL 2022 [[paper](https://arxiv.org/abs/2107.13435)]
 - 🎨 [GSM8K] **Training verifiers to solve math word problems**, arXiv:2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
+- **Lime: Learning inductive bias for primitives of mathematical reasoning**, ICML 2021 [[paper](https://arxiv.org/abs/2101.06223)]
 - 🎨 [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper]](https://arxiv.org/abs/2110.13214)
 - 🎨 [TAT-QA] **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**, ACL-JCNLP 2021 [[paper](https://arxiv.org/abs/2105.07624)]
 - 🎨 [FinQA] **FinQA: A Dataset of Numerical Reasoning over Financial Data**, EMNLP 2021 [[paper](https://arxiv.org/abs/2109.00122)]
 
 ### Prompting Learning for MWPs
 
+- **Scaling Instruction-Finetuned Language Models**, arXiv:2210.11416 [[paper](https://arxiv.org/abs/2210.11416)]
+- **Challenging BIG-Bench tasks and whether chain-of-thought can solve them**, arXiv:2210.09261 [[paper](https://arxiv.org/abs/2210.09261)]
+- **Large Language Models are few(1)-shot Table Reasoners**, arXiv:2210.06710 [[paper](https://arxiv.org/abs/2210.06710)]
+- **Automatic Chain of Thought Prompting in Large Language Models**, arXiv:2210.03493 [[paper]](https://arxiv.org/abs/2210.03493)
+- :fire: **Language models are multilingual chain-of-thought reasoners**, arXiv:2210.03057 [[paper](https://arxiv.org/abs/2210.03057)]
 - :fire: 🎨 [TabMWP, GPT-3] **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**, arXiv:2209.14610, 2022 [[paper]](https://arxiv.org/abs/2209.14610)
 - :fire: [Zero-shot CoT] **Large Language Models are Zero-Shot Reasoners**, preprint arXiv:2205.11916 [[paper](https://arxiv.org/abs/2205.11916)]
+- **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**, arXiv:2205.10625 [[paper](https://arxiv.org/abs/2205.10625)]
 - :fire: **Self-consistency improves chain of thought reasoning in language models**, arXiv:2203.11171 [[paper](https://arxiv.org/abs/2203.11171)]
 - :fire: [CoT] **Chain of thought prompting elicits reasoning in large language models**, arXiv:2201.11903 [[paper](https://arxiv.org/abs/2201.11903)]
+- **Emergent Abilities of Large Language Models**, Transactions on Machine Learning Research 2022 [[paper](https://arxiv.org/abs/2206.07682)]
 - **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**, ACL 2022 [[paper](https://arxiv.org/abs/2104.08786)]
 - 🎨 [NumGLUE] **NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://aclanthology.org/2022.acl-long.246/)]
 - **What Makes Good In-Context Examples for GPT-3?** The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures 2022 [[paper](https://aclanthology.org/2022.deelio-1.10/)]
@@ -87,14 +115,29 @@
 
 ## 📜 Theorem Proving
 
+### Formal Theorem Proving
+
+- **Autoformalization with Large Language Models**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2205.12615)]
 - **HyperTree Proof Search for Neural Theorem Proving**, arXiv:2205.11491 [[paper]](https://arxiv.org/abs/2205.11491)
+- **Autoformalization with Large Language Models**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2205.12615)]
 - **Proof Artifact Co-training for Theorem Proving with Language Models**, arXiv:2102.06203 [[paper]](https://arxiv.org/abs/2102.06203)
-- :fire: 🎨 **NaturalProofs: Mathematical Theorem Proving in Natural Language**, NeurIPS 2021 (Datasets and Benchmarks) [[paper]](https://arxiv.org/abs/2104.01112)
 - **INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving**, ICLR 2021 [[paper]](https://arxiv.org/abs/2007.02924)
 - **Graph representations for higher-order logic and theorem proving**, AAAI 2020 [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/5689)]
 - **Generative Language Modeling for Automated Theorem Proving**, arXiv:2009.03393 [[paper]](https://arxiv.org/abs/2009.03393)
 - **Deep network guided proof search**, arXiv:1701.06972 [[paper](https://arxiv.org/abs/1701.06972)]
 - **DeepMath - Deep Sequence Models for Premise Selection**, NeurIPS 2016 [[paper](https://arxiv.org/abs/1606.04442)]
+- **Thor: Wielding Hammers to Integrate Language Models and Automated Theorem Provers**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2205.10893)]
+- **Proof Artifact Co-training for Theorem Proving with Language Model**, ICLR 2022 [[paper](https://arxiv.org/abs/2102.06203)]
+- **Learning to Give Checkable Answers with Prover-Verifier Games**, arXiv:2108.12099 [[paper](https://arxiv.org/abs/2108.12099)]
+- **IsarStep: a Benchmark for High-level Mathematical Reasoning**, ICLR 2021 [[paper](https://arxiv.org/abs/2006.09265)]
+- **REFACTOR: Learning to Extract Theorems from Proofs**, 2022 [[paper](https://openreview.net/forum?id=827jG3ahxL)]
+- **Latent Action Space for Efficient Planning in Theorem Proving**, 2021 [[paper](http://aitp-conference.org/2021/abstract/paper_24.pdf)]
+- **Neural Theorem Proving on Inequality Problems**, AITP 2020 [[paper](http://aitp-conference.org/2020/abstract/paper_18.pdf)]
+
+### Informal Theorem Proving
+
+- **Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs**, arXiv:2210.12283 [[paper](https://arxiv.org/abs/2210.12283)]
+- :fire: 🎨 **NaturalProofs: Mathematical Theorem Proving in Natural Language**, NeurIPS 2021 (Datasets and Benchmarks) [[paper]](https://arxiv.org/abs/2104.01112)
 
 ### Geometry Theorem Proving
 
@@ -153,5 +196,11 @@
 
 ### Other Mathematical Problems
 
-- 
+- **Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics**, AAAI 2022 [[paper](https://arxiv.org/abs/2109.13986)]
+- **Injecting Numerical Reasoning Skills into Knowledge Base Question Answering Models**, arXiv:2112.06109 [[paper](https://arxiv.org/abs/2112.06109)]
+- 🎨 **Programming Puzzles**, NeurIPS 2021 (Datasets and Benchmarks) [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/3988c7f88ebcb58c6ce932b957b6f332-Abstract-round1.html)]
+- 🎨 [Fermi] **How Much Coffee Was Consumed During EMNLP 2019? Fermi Problems: A New Reasoning Challenge for AI**, EMNLP 2020 [[paper]](https://arxiv.org/abs/2110.14207)
+- **Injecting Numerical Reasoning Skills into Language Models**, ACL 2020 [[paper](https://arxiv.org/abs/2004.04487)]
+- 🎨 **Machine Number Sense: A Dataset of Visual Arithmetic Problems for Abstract and Relational Reasoning**, AAAI 2020 [[paper](https://arxiv.org/abs/2004.12193)]
+- **Classification and Clustering of arXiv Documents, Sections, and Abstracts, Comparing Encodings of Natural and Mathematical Language**, JCDL 2020 [[paper](https://arxiv.org/abs/2005.11021)]
 
