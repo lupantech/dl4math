@@ -87,7 +87,7 @@
 
 ## 🧩 Neural Networks for Math
 
-### Neural Math Word Problem Solvers
+### Neural Math Word Problem Solving
 
 - [symbolic reasoning] **Semantic parsing of pre-university math problems**, ACL 2017 [[paper](https://aclanthology.org/P17-1195/)]
 - [Equation templates] **Learning fine-grained expressions to solve math word problems**, EMNLP 2017 [[paper](https://aclanthology.org/D17-1084/)]
@@ -102,7 +102,7 @@
 - :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper](https://arxiv.org/abs/2110.13214)]
 - **Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**, EMNLP 2022 [[paper](https://aclanthology.org/2021.emnlp-main.272/)]
 
-### Neural Geometry Solvers
+### Neural Geometry Solving
 
 - **Synthesis of geometry proof problems**, AAAI 2014 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/8745)]
 - **Diagram understanding in geometry questions**, AAAI 2014 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/9146#:~:text=The%20first%20step%20in%20solving,them%20to%20corresponding%20textual%20descriptions.)]
@@ -111,7 +111,7 @@
 - **A Framework for Solving Explicit Arithmetic Word Problems and Proving Plane Geometry Theorems**, International Journal of Pattern Recognition and Artificial Intelligence 2019 [[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001419400056)]
 - [Knowledge] **Discourse in multimedia: A case study in extracting geometry knowledge from textbooks**, Computational Linguistics, 2020 [[paper](https://aclanthology.org/J19-4002/)]
 
-### Neural Theorem Proofers
+### Neural Theorem Proving
 
 - **DeepMath - Deep Sequence Models for Premise Selection**, NeurIPS 2016 [[paper](https://arxiv.org/abs/1606.04442)]
 - **Deep network guided proof search**, arXiv:1701.06972 [[paper](https://arxiv.org/abs/1701.06972)]
@@ -129,6 +129,7 @@
 
 - :fire: **Advancing mathematics by guiding human intuition with AI**, Nature 2021 [[paper](https://www.nature.com/articles/s41586-021-04086-x)]
 - **Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics**, AAAI 2022 [[paper](https://arxiv.org/abs/2109.13986)]
+- :fire: **Discovering faster matrix multiplication algorithms with reinforcement learning**, Nature 2022 [[paper](https://www.nature.com/articles/s41586-022-05172-4)]
 
 
 
@@ -144,17 +145,16 @@
 - **Lime: Learning inductive bias for primitives of mathematical reasoning**, ICML 2021 [[paper](https://arxiv.org/abs/2101.06223)]
 - **MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving**, Findings of NAACL 2022 [[paper](https://arxiv.org/abs/2107.13435)]
 - **TAPEX: Table Pre-training via Learning a Neural SQL Executor**, ICLR 2022 [[paper](https://arxiv.org/abs/2107.07653)]
-- **Minerva: Solving Quantitative Reasoning Problems with Language Models**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.14858)]
 - **Insights into Pre-training via Simpler Synthetic Tasks**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.10139)]
 - **Learning from Self-Sampled Correct and Partially-Correct Programs**, arXiv:2205.14318 [[paper](https://arxiv.org/abs/2205.14318)]
 - **Solving quantitative reasoning problems with language models**, arXiv:2206.14858 [[paper](https://arxiv.org/abs/2206.14858)]
 
-### Larguage Models for GPS
+### Larguage Models for Geometry Solvers
 
 - :fire: [Inter-GPS] **Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**, ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.528/)]
 - :fire: [UniGeo] **UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression**, EMNLP 2022 [[paper](https://lupantech.github.io/papers/emnlp22_unigeo.pdf)]
 
-### Larguage Models for Proving
+### Larguage Models for Theorem Proving
 
 - **Generative Language Modeling for Automated Theorem Proving**, arXiv:2009.03393 [[paper](https://arxiv.org/abs/2009.03393)]
 - **HyperTree Proof Search for Neural Theorem Proving**, arXiv:2205.11491 [[paper]](https://arxiv.org/abs/2205.11491)
@@ -207,10 +207,7 @@
 ### Prompt Learning for MathQA
 
 - :fire: **A Neural Network Solves, Explains, and Generates University Math Problems by Program Synthesis and Few-Shot Learning at Human Level**, PNAS 2022 [[paper]](https://www.pnas.org/doi/10.1073/pnas.2123433119)
-
-### Prompt Learning for Other Math Tasks
-
-- 
+- :fire: **Minerva: Solving Quantitative Reasoning Problems with Language Models**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.14858)]
 
 
 
