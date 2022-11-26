@@ -37,7 +37,6 @@
 - [MathQA] **MathQA: Towards interpretable math word problem solving with operation-based formalisms**, NAACL-HLT 2019 [[paper](https://aclanthology.org/N19-1245/)]
 - [ASDiv-A] **A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers**, ACL 2020 [[paper](https://arxiv.org/abs/2106.15772)]
 - [SVAMP] **Are NLP Models really able to Solve Simple Math Word Problems?**, NAACL-HIT 2021 [[paper](https://arxiv.org/abs/2103.07191)]
-
 - :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper](https://arxiv.org/abs/2110.13214)]
 - :fire: [GSM8K] **Training verifiers to solve math word problems**, arXiv:2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
 - [ArMATH] **ArMATH: a Dataset for Solving Arabic Math Word Problems**, LREC 2022 [[paper](https://aclanthology.org/2022.lrec-1.37/)]
