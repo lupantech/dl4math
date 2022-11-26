@@ -38,7 +38,7 @@
 - [ASDiv-A] **A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers**, ACL 2020 [[paper](https://arxiv.org/abs/2106.15772)]
 - [SVAMP] **Are NLP Models really able to Solve Simple Math Word Problems?**, NAACL-HIT 2021 [[paper](https://arxiv.org/abs/2103.07191)]
 
-- :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper]](https://arxiv.org/abs/2110.13214)
+- :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper](https://arxiv.org/abs/2110.13214)]
 - :fire: [GSM8K] **Training verifiers to solve math word problems**, arXiv:2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
 - [ArMATH] **ArMATH: a Dataset for Solving Arabic Math Word Problems**, LREC 2022 [[paper](https://aclanthology.org/2022.lrec-1.37/)]
 - :fire: [TabMWP] **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**, arXiv:2209.14610, 2022 [[paper]](https://arxiv.org/abs/2209.14610)
@@ -99,6 +99,7 @@
 - [expression tree] **Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems**, EMNLP 2020 [[paper](https://arxiv.org/abs/2010.06823)]
 - [Weak Supervision] **Learning by Fixing: Solving Math Word Problems with Weak Supervision**, AAAI 2021 [[paper](https://arxiv.org/abs/2012.10582)]
 - **Solving Math Word Problems with Teacher Supervision**, IJCAI 2021 [[paper](https://www.ijcai.org/proceedings/2021/485)]
+- :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks) [[paper](https://arxiv.org/abs/2110.13214)]
 - **Analogical Math Word Problems Solving with Enhanced Problem-Solution Association**, EMNLP 2022 [[paper](https://aclanthology.org/2021.emnlp-main.272/)]
 
 ### Neural Geometry Solvers
@@ -147,6 +148,11 @@
 - **Insights into Pre-training via Simpler Synthetic Tasks**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2206.10139)]
 - **Learning from Self-Sampled Correct and Partially-Correct Programs**, arXiv:2205.14318 [[paper](https://arxiv.org/abs/2205.14318)]
 - **Solving quantitative reasoning problems with language models**, arXiv:2206.14858 [[paper](https://arxiv.org/abs/2206.14858)]
+
+### Larguage Models for GPS
+
+- :fire: [Inter-GPS] **Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**, ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.528/)]
+- :fire: [UniGeo] **UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression**, EMNLP 2022 [[paper](https://lupantech.github.io/papers/emnlp22_unigeo.pdf)]
 
 ### Larguage Models for Proving
 
