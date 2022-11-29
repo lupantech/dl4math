@@ -152,7 +152,7 @@
 - [GPT-2] **Language models are unsupervised multitask learners**, 2019 [[paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)]
 - [UnifiedQA] **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**, EMNLP 2020 [[paper](https://arxiv.org/abs/2005.00700)]
 
-### Larguage Models for MWPs
+### Language Models for MWPs
 
 - **Lime: Learning inductive bias for primitives of mathematical reasoning**, ICML 2021 [[paper](https://arxiv.org/abs/2101.06223)]
 - :fire: [IconQA] **IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning**, NeurIPS 2021 (Datasets and Benchmarks)] [[paper](https://arxiv.org/abs/2110.13214)]
@@ -162,12 +162,12 @@
 - **Learning from Self-Sampled Correct and Partially-Correct Programs**, arXiv:2205.14318 [[paper](https://arxiv.org/abs/2205.14318)]
 - **Solving quantitative reasoning problems with language models**, arXiv:2206.14858 [[paper](https://arxiv.org/abs/2206.14858)]
 
-### Larguage Models for Geometry Solvers
+### Language Models for Geometry Solvers
 
 - :fire: [Inter-GPS] **Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**, ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.528/)]
 - :fire: [UniGeo] **UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression**, EMNLP 2022 [[paper](https://lupantech.github.io/papers/emnlp22_unigeo.pdf)]
 
-### Larguage Models for Theorem Proving
+### Language Models for Theorem Proving
 
 - **Generative Language Modeling for Automated Theorem Proving**, arXiv:2009.03393 [[paper](https://arxiv.org/abs/2009.03393)]
 - **HyperTree Proof Search for Neural Theorem Proving**, arXiv:2205.11491 [[paper](https://arxiv.org/abs/2205.11491)]
@@ -175,13 +175,13 @@
 - **Thor: Wielding Hammers to Integrate Language Models and Automated Theorem Provers**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2205.10893)]
 - [LISA] **LISA: Language models of ISAbelle proofs**, AITP 2021 [[paper](http://138.232.66.212/2021/abstract/paper_17.pdf)]
 
-### Larguage Models for MathQA
+### Language Models for MathQA
 
 - **From 'F' to 'A' on the NY Regents Science Exams: An Overview of the Aristo Project**, arXiv:1909.01958 [[paper](https://arxiv.org/abs/1909.01958)]
 - **Injecting Numerical Reasoning Skills into Language Models**, ACL 2020 [[paper](https://arxiv.org/abs/2004.04487)]
 - **Injecting Numerical Reasoning Skills into Knowledge Base Question Answering Models**, arXiv:2112.06109 [[paper](https://arxiv.org/abs/2112.06109)]
 
-### Larguage Models for Other Math Tasks
+### Language Models for Other Math Tasks
 
 - **Linear algebra with transformers**, TMLR 2022 [[paper](https://arxiv.org/abs/2112.01898)]
 - **Show Your Work: Scratchpads for Intermediate Computation with Language Models**, arXiv:2112.00114 [[paper](https://arxiv.org/abs/2112.00114)] 
