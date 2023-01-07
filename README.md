@@ -6,7 +6,7 @@
 
 This repository is the reading list on ***Deep Learning for Mathematical Reasoning (DL4MATH)***. 
 
-**Contributors**: [Pan Lu](https://lupantech.github.io/) @UCLA, [Liang Qiu](https://www.lqiu.info/) @UCLA, [Wenhao Yu](https://wyu97.github.io/) @Notre Dame, [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) @UCLA, [Sean Welleck](https://wellecks.com/) @UW
+**Contributors**: [Pan Lu](https://lupantech.github.io/) @UCLA, [Liang Qiu](https://www.lqiu.info/) @UCLA, [Wenhao Yu](https://wyu97.github.io/) @Notre Dame, [Sean Welleck](https://wellecks.com/) @UW, [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) @UCLA
 
 For more details, please refer to the paper: [A Survey of Deep Learning for Mathematical Reasoning](https://arxiv.org/abs/2212.10535).
 
