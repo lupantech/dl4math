@@ -10,7 +10,7 @@ This repository is the reading list on ***Deep Learning for Mathematical Reasoni
 
 For more details, please refer to the paper: [A Survey of Deep Learning for Mathematical Reasoning](https://arxiv.org/abs/2212.10535).
 
-:bell: If you have any suggestions or notice something we missed, please don't hesitate to let us know. You can directly email Pan Lu (lupantech@gmail.com), comment on the [twitter](https://twitter.com/lupantech/status/1605400505697841155), or post a issue on this repo.
+:bell: If you have any suggestions or notice something we missed, please don't hesitate to let us know. You can directly email Pan Lu (lupantech@gmail.com), comment on the [twitter](https://twitter.com/lupantech/status/1605400505697841155), or post an issue on this repo.
 
 
 
