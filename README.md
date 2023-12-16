@@ -38,6 +38,7 @@ For more details, please refer to the paper: [A Survey of Deep Learning for Math
 - :fire: **Math AI for Education: Bridging the Gap Between Research and Smart Education (MATHAI4ED)**, NeurIPS 2021 [[website](https://mathai4ed.github.io/)]
 - :fire: **The 1st Workshop on Mathematical Natural Language Processing**, EMNLP 2022 [[website](https://sites.google.com/view/1st-mathnlp/)]
 - :fire: **The 2nd MATH-AI Workshop: Toward Human-Level Mathematical Reasoning**, NeurIPS 2022  [[website](https://mathai2022.github.io/)]
+- :fire: **AI to Assist Mathematical Reasoning: A Workshop**, NASEM 2023  [[YouTube](https://www.youtube.com/playlist?list=PLgBHexwnIcdtAv9jVYnXAjCMKA0pNDXxJ)]
 
 ### Talks
 
