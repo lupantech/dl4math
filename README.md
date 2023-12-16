@@ -308,7 +308,7 @@ For more details, please refer to the paper: [A Survey of Deep Learning for Math
 - [MWPToolkit] **Mwptoolkit: an open-source framework for deep learning-based math word problem solvers**, AAAI 2022 [[paper](https://arxiv.org/abs/2109.00799)]
 - **A deep reinforcement learning agent for geometry online tutoring**, Knowledge and Information Systems 2022 [[paper](https://link.springer.com/article/10.1007/s10115-022-01804-3)]
 - **ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler**, NeurIPS 2022 [[paper](https://arxiv.org/abs/2210.10105)]
-- **Solving math word problems with processand outcome-based feedback**, arXiv:2211.14275 [[paper](https://arxiv.org/abs/2211.14275)]
+- **Solving math word problems with process and outcome-based feedback**, arXiv:2211.14275 [[paper](https://arxiv.org/abs/2211.14275)]
 - **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**, arXiv:2212.07249 [[paper](https://arxiv.org/abs/2212.07249)]
 - **Enhancing Financial Table and Text Question Answering with Tabular Graph and Numerical Reasoning**, AACL 2022 [[paper](https://aclanthology.org/2022.aacl-main.72/)]
 - **DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data**, AAAI 2023 [[paper](https://arxiv.org/abs/2211.12668)]
